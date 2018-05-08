@@ -1,0 +1,1371 @@
+Note: if the base size is larger than 7, only the top 7 words will be shown. 
+
+
+
+Z610 & cognitive abuse substance cognition learning tasks theory 
+      Z521 & cognitive cognition learning tasks theory task framework 
+            Z446 & theory framework issues researchers person perspective theoretical 
+                  Z397 & framework issues researchers person perspective existing challenges 
+                        Z2253 & framework researchers person perspective existing describe capture 
+                              Z1605 & framework researchers person perspective existing 
+                              Z1604 & describe capture instance traditional perform give hand 
+                        Z2252 & issues challenges challenge progress 
+                              Z1603 & issues challenges 
+                              Z1602 & challenge progress 
+                  Z398 & theory empirical theoretical taking create direction choice 
+                        Z2255 & theory empirical theoretical taking direction choice place 
+                              Z1621 & theory theoretical empirical 
+                              Z1622 & gap wave 
+                              Z1620 & path indirect 
+                              Z1623 & taking choice place view reasons real 
+                              Z1624 & direction strength magnitude stronger 
+                        Z2254 & create created code codes define threshold hearing 
+                              Z1607 & create created 
+                              Z1606 & code codes 
+                              Z1608 & hearing speech auditory ear 
+                              Z1610 & define definition 
+                              Z1612 & driving drive 
+                              Z1611 & principal pca 
+                              Z1609 & threshold thresholds 
+                              Z1613 & native folding 
+                              Z1614 & units unit 
+                              Z1615 & count counts 
+                              Z1616 & carolina north 
+                              Z1618 & hemorrhage bleeding 
+                              Z1617 & texas anderson 
+                              Z1619 & perceived perceptions 
+            Z445 & cognitive learning cognition tasks task memory attention 
+                  Z395 & cognitive cognition learning tasks task memory attention 
+                        Z2249 & cognitive cognition learning tasks task attention verbal 
+                              Z1592 & learning verbal working 
+                              Z1593 & cognitive cognition 
+                              Z1595 & attention attentional 
+                              Z1594 & tasks task 
+                        Z2248 & memory deficits neuropsychological executive 
+                              Z1590 & memory deficits 
+                              Z1591 & neuropsychological executive 
+                  Z396 & visual stimuli perception stimulus perceptual object representations 
+                        Z2250 & visual object representations objects vision representation 
+                              Z1596 & visual vision 
+                              Z1597 & representations representation 
+                              Z1598 & object objects 
+                        Z2251 & stimuli perception stimulus perceptual responding respond 
+                              Z1600 & perception perceptual 
+                              Z1599 & stimuli stimulus 
+                              Z1601 & responding respond 
+      Z522 & abuse substance alcohol addiction users cocaine drinking 
+            Z447 & abuse substance alcohol drinking marijuana binge lifetime 
+                  Z399 & abuse substance alcohol drinking marijuana lifetime binge 
+                        Z2257 & abuse substance lifetime suicide 
+                              Z1627 & abuse substance 
+                              Z1628 & lifetime suicide 
+                        Z2256 & alcohol drinking marijuana binge heavy 
+                              Z1625 & alcohol drinking 
+                              Z1626 & marijuana binge heavy 
+                  Z3100 & engineering mater eng nanoparticles polymer nanoparticle biomedical 
+                        Z2259 & engineering mater eng polymer biomedical 
+                              Z1631 & mater eng polymer 
+                              Z1632 & engineering biomedical 
+                        Z2258 & nanoparticles nanoparticle carriers aggregation gold nps dox 
+                              Z1630 & nanoparticles nanoparticle 
+                              Z1629 & carriers aggregation gold nps dox 
+                  Z3101 & diet dietary nutrition nutr fat fed feeding 
+                        Z2261 & diet dietary nutrition nutr 
+                              Z1635 & diet dietary 
+                              Z1636 & nutrition nutr 
+                        Z2260 & fat fed feeding adipose 
+                              Z1633 & fat adipose 
+                              Z1634 & fed feeding 
+            Z448 & addiction users cocaine nicotine abstinence smoking dependence 
+                  Z3102 & users angeles los user cannabis occupational online 
+                        Z2262 & users user cannabis online article 
+                              Z1638 & users user cannabis 
+                              Z1637 & online article 
+                        Z2264 & occupational workers environ environmental 
+                              Z1641 & occupational workers 
+                              Z1642 & environmental environ 
+                        Z2267 & random estimation weighted randomly bayesian weights assigned 
+                              Z1649 & random estimation bayesian 
+                              Z1650 & weighted weights 
+                              Z1651 & randomly assigned 
+                        Z2263 & angeles los california san 
+                              Z1639 & angeles los 
+                              Z1640 & california san 
+                        Z2266 & surgery surgical postoperative surg preoperative surgeons underwent 
+                              Z1646 & surgical surgery surg 
+                              Z1645 & postoperative preoperative surgeons 
+                              Z1647 & abdominal pelvic 
+                              Z1648 & underwent undergoing 
+                        Z2265 & admission discharge hospitalization intensive icu 
+                              Z1643 & intensive icu 
+                              Z1644 & admission discharge hospitalization 
+                  Z3103 & addiction cocaine nicotine abstinence smoking dependence cigarette 
+                        Z2268 & addiction cocaine nicotine dependence opioid opioids 
+                              Z1652 & addiction cocaine 
+                              Z1653 & nicotine dependence 
+                              Z1654 & opioid opioids 
+                        Z2269 & abstinence selfadministration withdrawal relapse nac preference 
+                              Z1656 & abstinence withdrawal relapse 
+                              Z1655 & selfadministration preference nac 
+                        Z2270 & smoking cigarette tobacco smokers cigarettes smoke cessation 
+                              Z1658 & smoking smokers 
+                              Z1657 & tobacco cigarettes cessation 
+                              Z1659 & cigarette smoke 
+                              Z1660 & quit attempts internet financial ref 
+      Z523 & ieee motion algorithm angle applications parameter simulation 
+            Z450 & ieee motion algorithm angle applications technique algorithms 
+                  Z3106 & ieee motion angle applications technique reconstruction speed 
+                        Z2278 & ieee applications technique reconstruction trans phantom 
+                              Z1677 & applications technique 
+                              Z1679 & reconstruction phantom 
+                              Z1678 & ieee trans 
+                        Z2279 & motion angle speed velocity 
+                              Z1680 & motion angle 
+                              Z1681 & speed velocity 
+                  Z3107 & algorithm algorithms accuracy accurate validation tool dataset 
+                        Z2281 & algorithm algorithms accuracy accurate 
+                              Z1684 & algorithm algorithms 
+                              Z1685 & accuracy accurate 
+                        Z2280 & matching pairs pair matched 
+                              Z1683 & matching matched 
+                              Z1682 & pairs pair 
+                        Z2282 & validation tool tools validated utility 
+                              Z1687 & tool tools utility 
+                              Z1686 & validation validated 
+                        Z2283 & dataset database datasets list 
+                              Z1689 & dataset datasets 
+                              Z1688 & database list 
+                  Z3108 & electrical computer electrodes electrode amplitude device recording 
+                        Z2284 & electrical computer device devices 
+                              Z1690 & electrical computer 
+                              Z1691 & device devices 
+                        Z2285 & amplitude electrodes electrode recording 
+                              Z1693 & amplitude recording 
+                              Z1692 & electrodes electrode 
+            Z449 & parameter simulation computational simulations equation fit modeling 
+                  Z3105 & simulation computational simulations modeling constant simulated sets 
+                        Z2275 & sets distributions minimum calculations represented sampling 
+                              Z1671 & sets distributions represented sampling 
+                              Z1672 & minimum calculations 
+                        Z2276 & phys optimization optimal achieve irradiation 
+                              Z1673 & optimization optimal achieve 
+                              Z1674 & phys irradiation 
+                        Z2274 & simulation simulations constant simulated shape varying respect 
+                              Z1668 & slightly upper limit 
+                              Z1669 & varying respect extended extension 
+                              Z1670 & constant shape 
+                              Z1667 & simulation simulations simulated 
+                        Z2277 & computational modeling predictions prediction 
+                              Z1675 & computational modeling 
+                              Z1676 & predictions prediction 
+                  Z3104 & parameter equation fit coefficient coefficients obtain slope 
+                        Z2271 & coefficient coefficients absolute lowest 
+                              Z1662 & absolute lowest 
+                              Z1661 & coefficient coefficients 
+                        Z2272 & parameter equation fit obtain slope steps 
+                              Z1663 & parameter equation fit slope 
+                              Z1664 & obtain steps 
+                        Z2273 & curve plot plots curves auc 
+                              Z1666 & plot plots 
+                              Z1665 & curve curves auc 
+Z612 & services community people policy providers practices persons 
+      Z527 & providers provider bind recommendations insurance binds physician 
+            Z459 & providers provider recommendations physician insurance physicians healthcare 
+                  Z3129 & providers provider physician physicians healthcare counseling outpatient 
+                        Z2333 & providers provider counseling adherence 
+                              Z1803 & counseling adherence 
+                              Z1804 & providers provider 
+                        Z2332 & physician physicians receive barriers decision receiving decisions 
+                              Z1799 & physician physicians 
+                              Z1801 & decision decisions 
+                              Z1800 & barriers qualitative 
+                              Z1802 & receive receiving 
+                        Z2334 & healthcare outpatient emergency hospitals utilization veterans 
+                              Z1806 & healthcare utilization veterans 
+                              Z1805 & outpatient emergency hospitals 
+                  Z3128 & recommendations insurance medicaid medicare recommended consensus reviewed 
+                        Z2330 & recommendations recommended consensus reviewed 
+                              Z1795 & consensus reviewed 
+                              Z1796 & recommendations recommended 
+                        Z2329 & insurance medicaid medicare coverage 
+                              Z1794 & insurance coverage 
+                              Z1793 & medicaid medicare 
+                        Z2331 & pubmed investigators epub pmid search doi 
+                              Z1798 & investigators epub pmid doi 
+                              Z1797 & pubmed search 
+            Z458 & bind molecules binds complexes affinity molecule residues 
+                  Z3126 & bind binds complexes affinity bound assembly motif 
+                        Z2323 & complexes affinity bound assembly formed 
+                              Z1781 & complexes affinity bound 
+                              Z1782 & assembly formed 
+                        Z2324 & bind binds motif interact 
+                              Z1783 & bind binds 
+                              Z1784 & motif interact 
+                  Z3125 & molecules molecule scaffold engineered terminal rapidly docking 
+                        Z2320 & terminal rapidly docking intermediate attachment interference raman 
+                              Z1769 & terminal docking rapidly intermediate 
+                              Z1770 & attachment interference raman entry statin 
+                        Z2321 & molecules molecule scaffold scaffolds 
+                              Z1772 & molecules molecule 
+                              Z1771 & scaffold scaffolds 
+                        Z2322 & engineered fraction donor clone class fractions clones 
+                              Z1774 & engineered recognition phage editing 
+                              Z1773 & fraction fractions 
+                              Z1776 & clone clones 
+                              Z1775 & donor donors 
+                              Z1779 & class classes 
+                              Z1777 & foxp3 treg 
+                              Z1778 & lupus sle 
+                              Z1780 & hcv hepatitis hbv 
+                  Z3127 & residues amino residue cterminal biochemistry conformational nterminal 
+                        Z2325 & residues amino residue biochemistry 
+                              Z1785 & residues amino 
+                              Z1786 & residue biochemistry 
+                        Z2327 & conformational conformation close contact 
+                              Z1789 & conformational conformation 
+                              Z1790 & close contact 
+                        Z2328 & cterminal nterminal domain domains 
+                              Z1791 & cterminal nterminal 
+                              Z1792 & domain domains 
+                        Z2326 & crystal pdb positions orientation 
+                              Z1787 & crystal pdb 
+                              Z1788 & positions orientation 
+      Z526 & services community policy people practices persons staff 
+            Z456 & children child benefits childhood childrens effectiveness improving 
+                  Z3121 & benefits effectiveness improving costs improvements cost improvement 
+                        Z2311 & benefits effectiveness improving costs cost 
+                              Z1751 & benefits effectiveness improving 
+                              Z1750 & costs cost 
+                        Z2312 & improvements improvement success successful 
+                              Z1753 & improvements improvement 
+                              Z1752 & success successful 
+                  Z3120 & children child childhood childrens pediatrics pediatric pediatr 
+                        Z2310 & children child childhood childrens childs preschool 
+                              Z1749 & children child childhood 
+                              Z1748 & childrens childs preschool 
+                        Z2309 & pediatrics pediatric pediatr congenital 
+                              Z1747 & pediatrics pediatric 
+                              Z1746 & pediatr congenital 
+                  Z3122 & disability rehabilitation walking exercise knee gait hip 
+                        Z2314 & disability rehabilitation knee hip joint 
+                              Z1756 & disability rehabilitation 
+                              Z1757 & knee hip joint 
+                        Z2313 & walking exercise gait mobility fracture frailty spine 
+                              Z1755 & walking exercise gait 
+                              Z1754 & mobility fracture frailty spine stat3 translational 
+            Z457 & services community people policy practices persons staff 
+                  Z3124 & community people persons staff resources likelihood communities 
+                        Z2317 & resources likelihood caregivers caregiver resource probability 
+                              Z1763 & resources resource 
+                              Z1762 & likelihood probability 
+                              Z1764 & caregivers caregiver 
+                        Z2318 & community people persons communities 
+                              Z1766 & people persons 
+                              Z1765 & community communities 
+                        Z2319 & staff team settings implementation planning 
+                              Z1767 & staff team 
+                              Z1768 & settings implementation planning 
+                  Z3123 & services policy practices centers programs awareness accessed 
+                        Z2316 & practices programs awareness seeking efforts 
+                              Z1760 & practices programs 
+                              Z1761 & awareness seeking efforts 
+                        Z2315 & services policy centers accessed surveillance deaths 
+                              Z1759 & services policy 
+                              Z1758 & centers accessed surveillance deaths 
+Z61 & transcription regulates kinase induces regulated transcriptional regulate 
+      Z52 & regulates kinase induces regulated regulate phosphorylation induction 
+            Z44 & regulates induces regulated regulate induction activated receptors 
+                  Z37 & fibroblasts remodeling zhou zhao sun zhu regeneration 
+                        Z215 & fibroblasts remodeling regeneration beta alpha cartilage 
+                              Z136 & remodeling fibroblasts regeneration cartilage 
+                              Z135 & beta alpha 
+                        Z214 & zhou zhao sun zhu lin song chang 
+                              Z133 & zhou zhao sun zhu lin song chang 
+                              Z132 & park dual wilson fisher taylor 
+                              Z134 & jones martin williams 
+                  Z38 & regulates induces regulated regulate induction activated receptors 
+                        Z216 & mediate implicated mediators gamma sensing enhancement inflammasome 
+                              Z137 & gamma sensing enhancement inflammasome pretreatment 
+                              Z138 & mediate implicated mediators 
+                        Z218 & dev disruption alterations developmental 
+                              Z145 & disruption alterations 
+                              Z144 & dev developmental 
+                        Z219 & nuclear nucleus differentially profiles 
+                              Z146 & nuclear nucleus 
+                              Z147 & differentially profiles 
+                        Z221 & upregulation upregulated plays signals contributes 
+                              Z151 & plays signals contributes 
+                              Z150 & upregulation upregulated 
+                        Z224 & profiling microarray parallel axis array candidate overlap 
+                              Z160 & parallel axis array candidate overlap 
+                              Z159 & profiling microarray 
+                        Z222 & activated activate homeostasis accumulation secretion maintenance alter 
+                              Z153 & homeostasis accumulation secretion 
+                              Z156 & alter capacity 
+                              Z152 & marked der 
+                              Z155 & activated activate 
+                              Z154 & maintenance maintain 
+                        Z223 & induces induction depletion suppression deficiency nfb autophagy 
+                              Z157 & induces induction 
+                              Z158 & depletion suppression deficiency nfb autophagy 
+                        Z217 & regulates regulate promotes regulating downstream activates regulatory 
+                              Z141 & promotes activates 
+                              Z142 & downstream regulatory 
+                              Z143 & isoforms isoform 
+                              Z139 & basal apical 
+                              Z140 & regulates regulate regulating 
+                        Z225 & mature defects maturation defect 
+                              Z161 & mature maturation 
+                              Z162 & defects defect 
+                        Z220 & regulated regulator overexpression knockdown 
+                              Z148 & overexpression knockdown 
+                              Z149 & regulated regulator 
+                        Z227 & receptors murine stimulation stimulated 
+                              Z167 & receptors murine 
+                              Z168 & stimulation stimulated 
+                        Z228 & knockout localization deletion transgenic localized conditional null 
+                              Z169 & knockout deletion transgenic 
+                              Z170 & localization localized 
+                              Z171 & conditional null 
+                        Z226 & exhibit blocks loop block display exhibited displayed 
+                              Z164 & exhibit exhibited 
+                              Z165 & blocks block 
+                              Z163 & display displayed 
+                              Z166 & loop feedback 
+            Z43 & kinase phosphorylation kinases endogenous transduction tyrosine phosphorylated 
+                  Z36 & kinase phosphorylation kinases endogenous transduction tyrosine phosphorylated 
+                        Z212 & endogenous transduction tyrosine phosphorylated akt pten 
+                              Z128 & endogenous transduction phosphorylated 
+                              Z129 & tyrosine akt pten 
+                        Z213 & kinase phosphorylation kinases mtor mtorc1 
+                              Z131 & kinase phosphorylation kinases 
+                              Z130 & mtor mtorc1 
+                  Z35 & elements discussed act facilitate examples thought emerging 
+                        Z211 & discussed act facilitate examples thought emerging basic 
+                              Z126 & act thought emerging involvement reviews actions member 
+                              Z125 & facilitate basic complexity broad 
+                              Z127 & discussed examples called 
+                        Z210 & elements element integration integrated 
+                              Z124 & elements element 
+                              Z123 & integration integrated 
+      Z51 & transcription transcriptional promoter genome genomic sequencing histone 
+            Z42 & transcription transcriptional promoter histone chromatin epigenetic reporter 
+                  Z33 & transcription transcriptional promoter reporter enhancer wnt luciferase 
+                        Z27 & transcription transcriptional wnt catenin notch 
+                              Z117 & transcription transcriptional 
+                              Z116 & wnt catenin notch 
+                        Z26 & promoter reporter enhancer luciferase 
+                              Z114 & promoter enhancer 
+                              Z115 & reporter luciferase 
+                  Z34 & histone chromatin epigenetic methylation embryos embryo cpg 
+                        Z28 & histone chromatin epigenetic methylation cpg transformation ezh2 
+                              Z120 & cpg transformation ezh2 
+                              Z119 & histone chromatin 
+                              Z118 & epigenetic methylation 
+                        Z29 & embryos embryo germ sperm offspring 
+                              Z122 & germ sperm offspring 
+                              Z121 & embryos embryo 
+            Z41 & genome genomic sequencing sequences genomewide chromosome locus 
+                  Z32 & genome genomic genomewide chromosome locus loci enriched 
+                        Z23 & genome genomic reads rnaseq library platform 
+                              Z15 & reads rnaseq 
+                              Z16 & genome genomic 
+                              Z17 & library platform 
+                        Z24 & enriched enrichment copy somatic base protocols repeat 
+                              Z18 & copy somatic 
+                              Z110 & base protocols repeat pooled minimal read paired 
+                              Z19 & enriched enrichment 
+                        Z25 & genomewide chromosome locus loci recombination strand double 
+                              Z111 & genomewide loci 
+                              Z113 & chromosome locus 
+                              Z112 & recombination strand double 
+                  Z31 & sequencing sequences alignment diversity evolution cluster similarity 
+                        Z21 & sequencing sequences alignment similarity identity 
+                              Z11 & sequencing sequences 
+                              Z12 & alignment similarity identity 
+                        Z22 & diversity evolution cluster clusters clustering 
+                              Z14 & diversity evolution 
+                              Z13 & cluster clusters clustering 
+Z611 & selfreported participant questionnaire demographic selfreport interview income 
+      Z524 & selfreported participant questionnaire selfreport interview income interviews 
+            Z451 & selfreported participant questionnaire selfreport interview interviews participation 
+                  Z3109 & interview interviews recruited categories category recruitment classified 
+                        Z2287 & interview interviews recruited recruitment 
+                              Z1696 & interview interviews 
+                              Z1697 & recruited recruitment 
+                        Z2286 & categories category classified classification 
+                              Z1695 & categories category 
+                              Z1694 & classified classification 
+                  Z3110 & selfreported participant questionnaire selfreport participation participate bias 
+                        Z2288 & participation participate bias recall 
+                              Z1698 & bias recall 
+                              Z1699 & participation participate 
+                        Z2289 & selfreported participant questionnaire selfreport 
+                              Z1700 & participant questionnaire 
+                              Z1701 & selfreported selfreport 
+            Z452 & income socioeconomic marital home household married urban 
+                  Z3111 & marital home married living cultural wellbeing employment 
+                        Z2290 & home living cultural economic residents annual indicators 
+                              Z1702 & cultural economic residents annual indicators marriage acculturation 
+                              Z1703 & home living 
+                        Z2291 & marital married wellbeing employment latino 
+                              Z1704 & employment wellbeing latino 
+                              Z1705 & marital married 
+                  Z3112 & income socioeconomic household urban poverty rural ses 
+                        Z2292 & urban rural job labor spent environments live 
+                              Z1707 & urban rural 
+                              Z1706 & job labor spent environments live 
+                        Z2293 & income household mexican city immigrants 
+                              Z1708 & mexican city immigrants 
+                              Z1709 & income household 
+                        Z2294 & socioeconomic poverty ses neighborhood housing percent explained 
+                              Z1710 & socioeconomic poverty 
+                              Z1711 & ses percent explained discrimination contributed 
+                              Z1712 & neighborhood housing 
+      Z525 & demographic race gender predictors hispanic covariates eligible 
+            Z453 & demographic race gender hispanic covariates eligible ethnicity 
+                  Z3113 & demographic race gender covariates eligible ethnicity african 
+                        Z2295 & gender younger men inclusion aged met 
+                              Z1713 & gender men 
+                              Z1714 & younger aged 
+                              Z1715 & inclusion met 
+                        Z2296 & demographic race covariates eligible ethnicity african missing 
+                              Z1719 & african americans 
+                              Z1718 & covariates missing 
+                              Z1716 & eligible reporting 
+                              Z1717 & demographic race ethnicity 
+                  Z3114 & enrolled enrollment symptom severity pain randomization fatigue 
+                        Z2298 & enrolled enrollment randomization placebo arm 
+                              Z1724 & enrolled enrollment 
+                              Z1723 & randomization placebo arm 
+                        Z2297 & symptom severity pain fatigue arch signs presentation 
+                              Z1721 & symptom severity 
+                              Z1720 & pain fatigue 
+                              Z1722 & arch signs presentation agerelated 
+                  Z3115 & hispanic raceethnicity racial ethnic nonhispanic disparities minority 
+                        Z2299 & hispanic raceethnicity nonhispanic whites 
+                              Z1726 & hispanic raceethnicity 
+                              Z1725 & nonhispanic whites 
+                        Z2300 & racial ethnic disparities minority 
+                              Z1728 & disparities minority 
+                              Z1727 & racial ethnic 
+            Z454 & epidemiology visit jama visits medication risks records 
+                  Z3116 & visit visits medication records medications clinic clinicians 
+                        Z2302 & visit visits records retrospective electronic 
+                              Z1732 & records retrospective electronic 
+                              Z1731 & visit visits 
+                        Z2301 & medication medications clinic clinicians clinically pilot 
+                              Z1730 & clinic clinicians clinically pilot 
+                              Z1729 & medication medications 
+                  Z3117 & epidemiology jama risks epidemiol observational incidence highrisk 
+                        Z2303 & jama risks observational highrisk prescription cumulative 
+                              Z1734 & jama risks observational 
+                              Z1733 & highrisk prescription cumulative 
+                        Z2304 & epidemiology epidemiol incidence diagnosed lancet 
+                              Z1736 & epidemiology epidemiol 
+                              Z1735 & incidence diagnosed lancet 
+            Z455 & predictors logistic odds predictor confidence multivariable stratified 
+                  Z3119 & predictors predictor confidence multivariate predicting interval predictive 
+                        Z2307 & predictors predictor multivariate predicting predictive worse criterion 
+                              Z1742 & predictors predictor 
+                              Z1741 & multivariate worse criterion 
+                              Z1743 & predicting predictive 
+                        Z2308 & confidence interval intervals hazard cox 
+                              Z1744 & confidence interval intervals 
+                              Z1745 & hazard cox 
+                  Z3118 & logistic odds multivariable stratified womens iqr pvalue 
+                        Z2306 & multivariable stratified womens iqr pvalue boston 
+                              Z1740 & multivariable stratified iqr pvalue 
+                              Z1739 & womens boston 
+                        Z2305 & logistic odds ratios incident referent 
+                              Z1737 & ratios incident referent 
+                              Z1738 & logistic odds 
+Z63 & incubated washed pbs buffer overnight kit incubation 
+      Z56 & pcr primers rna mrna purified primer polymerase 
+            Z414 & pcr primers rna mrna purified primer polymerase 
+                  Z329 & pcr primers purified primer polymerase purification reverse 
+                        Z276 & purified purification extracted extraction template forward pol 
+                              Z1177 & purified purification 
+                              Z1176 & extracted extraction 
+                              Z1178 & template forward pol 
+                        Z275 & pcr primers primer polymerase reverse amplification 
+                              Z1173 & primer reverse 
+                              Z1175 & polymerase amplification 
+                              Z1174 & pcr primers 
+                  Z330 & rna mrna transcript rnas transcripts splicing exon 
+                        Z278 & rna mrna splicing exon 
+                              Z1181 & rna mrna 
+                              Z1182 & splicing exon 
+                        Z277 & transcript rnas transcripts translation 
+                              Z1179 & rnas translation 
+                              Z1180 & transcript transcripts 
+            Z412 & birth maternal infant pregnancy infants gestational prenatal 
+                  Z324 & birth maternal infant infants gestational prenatal mothers 
+                        Z265 & birth gestational prenatal preterm born 
+                              Z1153 & gestational preterm 
+                              Z1152 & birth prenatal born 
+                        Z264 & maternal infant infants mothers mother 
+                              Z1151 & maternal mothers mother 
+                              Z1150 & infant infants 
+                  Z323 & pregnancy neonatal pregnant reproductive postnatal delivery fertility 
+                        Z263 & pregnancy pregnant reproductive fertility 
+                              Z1148 & pregnancy pregnant 
+                              Z1149 & reproductive fertility 
+                        Z262 & neonatal postnatal delivery delivered hydrogel hydrogels 
+                              Z1146 & neonatal postnatal 
+                              Z1145 & delivery delivered 
+                              Z1147 & hydrogel hydrogels 
+            Z413 & mri resonance magnetic tomography image scans scan 
+                  Z327 & tomography scans scan computed pet regional ultrasound 
+                        Z271 & scans scan pet regional 
+                              Z1165 & scans scan 
+                              Z1164 & pet regional 
+                        Z272 & tomography computed ultrasound acoustic 
+                              Z1166 & tomography computed 
+                              Z1167 & ultrasound acoustic 
+                  Z325 & image voxels roi axial acquired slices acquisition 
+                        Z267 & voxels axial roi slices volumes registration row 
+                              Z1156 & voxels axial roi slices 
+                              Z1157 & volumes registration row inverse run 
+                        Z266 & image acquired acquisition segmentation 
+                              Z1155 & image segmentation 
+                              Z1154 & acquired acquisition 
+                        Z268 & diffusion fluid permeability csf 
+                              Z1159 & diffusion permeability 
+                              Z1158 & fluid csf 
+                  Z326 & mri resonance magnetic neuroimage neuroimaging fmri matter 
+                        Z269 & resonance magnetic matter subject 
+                              Z1161 & resonance magnetic 
+                              Z1160 & matter subject 
+                        Z270 & mri neuroimage neuroimaging fmri 
+                              Z1162 & mri neuroimaging 
+                              Z1163 & neuroimage fmri 
+                  Z328 & reson magn pulse relaxation conventional segment segments 
+                        Z274 & conventional segment segments residual advantage distal proximal 
+                              Z1172 & conventional residual advantage 
+                              Z1171 & segment segments 
+                              Z1170 & distal proximal 
+                        Z273 & reson magn pulse relaxation 
+                              Z1168 & pulse relaxation 
+                              Z1169 & reson magn 
+      Z57 & incubated washed pbs buffer overnight kit incubation 
+            Z415 & washed pbs kit cultured medium supplemented cdna 
+                  Z331 & kit cultured medium supplemented cdna technologies grown 
+                        Z280 & kit cdna technologies technology 
+                              Z1186 & kit cdna 
+                              Z1185 & technologies technology 
+                        Z279 & cultured medium supplemented media grown cultures 
+                              Z1184 & cultured medium supplemented 
+                              Z1183 & media grown cultures 
+                  Z332 & washed pbs maintained fetal ethanol chamber cold 
+                        Z282 & washed pbs fetal ethanol cold tail 
+                              Z1191 & ethanol fetal 
+                              Z1190 & washed pbs 
+                              Z1192 & cold tail 
+                        Z281 & maintained chamber oil facility post pre minor 
+                              Z1188 & maintained chamber 
+                              Z1187 & oil facility minor replacement scoring copd log 
+                              Z1189 & post pre 
+            Z416 & incubated buffer overnight incubation temperature sigma plates 
+                  Z333 & incubated buffer overnight incubation temperature sigma prepared 
+                        Z283 & sigma nacl hour carried immediately band contained 
+                              Z1194 & sigma nacl 
+                              Z1193 & hour immediately 
+                              Z1195 & carried band contained panels identical graph 
+                        Z284 & incubated buffer prepared purchased gel assays lysates 
+                              Z1198 & prepared purchased 
+                              Z1196 & gel mixture 
+                              Z1197 & incubated buffer 
+                              Z1199 & assays lysates 
+                        Z285 & overnight incubation temperature gml mgml 
+                              Z1200 & overnight temperature 
+                              Z1201 & incubation gml mgml 
+                        Z286 & transferred experiment normalized subjected fold beads loading 
+                              Z1204 & fold beads chip 
+                              Z1203 & experiment normalized 
+                              Z1205 & subjected loading isolation realtime 
+                              Z1202 & transferred transfer 
+                  Z334 & plates plate sodium saline phosphate dmso stored 
+                        Z287 & saline phosphate stored dry storage 
+                              Z1206 & saline phosphate 
+                              Z1207 & stored dry storage 
+                        Z288 & plates plate sodium dmso vehicle salt figs 
+                              Z1208 & dmso vehicle 
+                              Z1210 & plates plate 
+                              Z1209 & figs registry ongoing follow survivors guide monitoring 
+                              Z1211 & sodium salt 
+Z62 & membrane intracellular proliferation apoptosis inhibits inhibitor inhibit 
+      Z54 & extracellular stem marrow hematopoietic collagen progenitor lineage 
+            Z48 & extracellular collagen mesenchymal matrix stromal ecm integrin 
+                  Z316 & extracellular collagen mesenchymal matrix stromal ecm integrin 
+                        Z246 & mesenchymal stromal integrin tgf deposition fibrosis smooth 
+                              Z1110 & tgf deposition fibrosis smooth 
+                              Z1112 & integrin focal foci 
+                              Z1111 & mesenchymal stromal mscs 
+                        Z247 & extracellular collagen matrix ecm 
+                              Z1113 & collagen matrix 
+                              Z1114 & extracellular ecm 
+                        Z248 & wound healing skin hair cochlear 
+                              Z1115 & skin hair cochlear 
+                              Z1116 & wound healing 
+                  Z315 & layer mechanical channels channel layers outer surfaces 
+                        Z243 & layer layers outer surfaces adjacent shear boundary 
+                              Z1105 & outer surfaces adjacent shear boundary 
+                              Z1104 & layer layers 
+                        Z244 & mechanical stiffness force displacement 
+                              Z1106 & mechanical stiffness 
+                              Z1107 & force displacement 
+                        Z245 & channel channels sensor sensors 
+                              Z1108 & channel channels 
+                              Z1109 & sensor sensors 
+            Z47 & stem marrow hematopoietic progenitor lineage bone leukemia 
+                  Z313 & stem marrow hematopoietic progenitor lineage bone progenitors 
+                        Z239 & marrow hematopoietic lineage bone expansion 
+                              Z196 & hematopoietic lineage expansion 
+                              Z195 & marrow bone 
+                        Z240 & stem progenitor progenitors embryonic 
+                              Z197 & stem embryonic 
+                              Z198 & progenitor progenitors 
+                  Z314 & leukemia myeloid transplantation lymphoma transplant aml recipients 
+                        Z241 & leukemia myeloid lymphoma aml 
+                              Z199 & leukemia myeloid 
+                              Z1100 & lymphoma aml 
+                        Z242 & transplantation transplant recipients graft rejection hct tbi 
+                              Z1102 & transplantation transplant 
+                              Z1101 & recipients graft 
+                              Z1103 & rejection hct tbi aki fgf23 coordination car 
+      Z53 & membrane intracellular proliferation apoptosis inhibits inhibitor inhibit 
+            Z45 & membrane intracellular proliferation apoptosis membranes differentiation actin 
+                  Z39 & membrane intracellular membranes actin blot cytoplasmic trafficking 
+                        Z229 & membrane intracellular cytoplasmic trafficking transport translocation intact 
+                              Z173 & membrane intracellular 
+                              Z174 & transport uptake 
+                              Z175 & cytoplasmic trafficking translocation vesicles 
+                              Z172 & intact removal integrity 
+                        Z230 & membranes actin blot western 
+                              Z176 & membranes actin 
+                              Z177 & blot western 
+                  Z310 & proliferation apoptosis differentiation adhesion migration apoptotic arrest 
+                        Z232 & proliferation differentiation migration adhesion 
+                              Z181 & adhesion migration 
+                              Z180 & proliferation differentiation 
+                        Z231 & apoptosis apoptotic arrest initiation unclear event 
+                              Z178 & apoptosis apoptotic 
+                              Z179 & arrest initiation unclear event 
+            Z46 & inhibits inhibitor inhibit inhibitors inhibited enhances ligand 
+                  Z312 & inhibits inhibitor inhibit inhibitors inhibited enhances ligand 
+                        Z235 & ligand resistance ligands resistant 
+                              Z187 & resistance resistant 
+                              Z186 & ligand ligands 
+                        Z237 & enhances blocking soluble pharmacological reduces enhance released 
+                              Z191 & blocking soluble pharmacological released 
+                              Z190 & enhances enhance 
+                              Z192 & reduces decreases 
+                        Z236 & inhibits inhibit inhibited inhibitory modulation 
+                              Z188 & inhibitory modulation 
+                              Z189 & inhibits inhibit inhibited 
+                        Z238 & inhibitor inhibitors protease degradation cleavage 
+                              Z194 & protease degradation cleavage 
+                              Z193 & inhibitor inhibitors 
+                  Z311 & potent agents therapeutics antagonist blockade preclinical agonist 
+                        Z233 & potent agents therapeutics preclinical agent 
+                              Z182 & potent therapeutics preclinical 
+                              Z183 & agents agent 
+                        Z234 & antagonist blockade agonist agonists 
+                              Z185 & antagonist blockade 
+                              Z184 & agonist agonists 
+      Z55 & animals rat rats physiol injection damage injected 
+            Z410 & animals rat rats physiol injection injected mgkg 
+                  Z320 & animals injection injected mgkg exposed injections heat 
+                        Z257 & exposed heat shock exposures 
+                              Z1133 & exposed exposures 
+                              Z1134 & heat shock 
+                        Z256 & animals injection injected mgkg injections 
+                              Z1132 & animals mgkg 
+                              Z1131 & injection injected injections 
+                  Z319 & rat rats physiol physiology physiological calcium prolonged 
+                        Z254 & prolonged transient attenuated sustained recovery implantation sham 
+                              Z1128 & attenuated implantation sham nave zone 
+                              Z1127 & prolonged transient sustained recovery 
+                        Z253 & rat rats perfusion anesthesia 
+                              Z1126 & perfusion anesthesia 
+                              Z1125 & rat rats 
+                        Z255 & physiol physiology physiological calcium 
+                              Z1130 & physiol calcium 
+                              Z1129 & physiology physiological 
+            Z411 & damage mitochondrial oxygen pharmacol reactive mitochondria oxide 
+                  Z321 & damage mitochondrial mitochondria injury repair atp cytochrome 
+                        Z259 & damage injury repair injuries 
+                              Z1138 & damage repair 
+                              Z1139 & injury injuries 
+                        Z258 & mitochondrial mitochondria atp cytochrome bcl2 cysteine mtdna 
+                              Z1135 & cytochrome bcl2 
+                              Z1136 & mitochondrial mitochondria 
+                              Z1137 & atp cysteine mtdna 
+                  Z322 & oxygen pharmacol reactive oxide nitric protective ther 
+                        Z261 & pharmacol oxide nitric protective ther protection 
+                              Z1143 & pharmacol ther 
+                              Z1144 & protective protection 
+                              Z1142 & oxide nitric 
+                        Z260 & oxygen reactive radical psa 
+                              Z1141 & oxygen reactive 
+                              Z1140 & radical psa 
+            Z49 & dose doses toxicity dosing administered pulmonary lung 
+                  Z318 & dose doses toxicity dosing administered infusion safety 
+                        Z251 & toxicity safety adverse toxic 
+                              Z1122 & toxicity toxic 
+                              Z1121 & safety adverse 
+                        Z252 & dose doses dosing administered infusion regimen 
+                              Z1124 & administered infusion 
+                              Z1123 & dose doses dosing regimen 
+                  Z317 & pulmonary lung respiratory lungs airway alveolar morbidity 
+                        Z249 & respiratory airway morbidity sepsis pneumonia 
+                              Z1118 & respiratory airway 
+                              Z1117 & morbidity sepsis pneumonia 
+                        Z250 & pulmonary lung lungs alveolar 
+                              Z1120 & pulmonary lung 
+                              Z1119 & lungs alveolar 
+Z65 & cortex neuroscience neural neurosci neurons neuronal cortical 
+      Z511 & cortex neuroscience neural cortical hippocampus prefrontal hippocampal 
+            Z424 & cortex cortical hippocampus prefrontal hippocampal frontal dorsal 
+                  Z351 & cortex cortical hippocampus prefrontal hippocampal frontal dorsal 
+                        Z2129 & cortex cortical hippocampus hippocampal connectivity networks 
+                              Z1301 & cortex cortical 
+                              Z1302 & connectivity networks 
+                              Z1303 & hippocampus hippocampal 
+                        Z2128 & prefrontal frontal dorsal ventral medial gyrus 
+                              Z1299 & medial gyrus 
+                              Z1298 & prefrontal frontal 
+                              Z1300 & dorsal ventral 
+                        Z2131 & onset movement movements delayed delay familial 
+                              Z1308 & movement movements 
+                              Z1307 & onset familial 
+                              Z1306 & delayed delay 
+                        Z2130 & lobe parietal correct correction false true 
+                              Z1304 & lobe parietal 
+                              Z1305 & correct correction false true 
+                  Z350 & striatum dopamine glial dopaminergic striatal astrocytes cerebellar 
+                        Z2125 & striatum striatal cerebellar projections pfc myelin 
+                              Z1293 & cerebellar projections pfc myelin 
+                              Z1292 & striatum striatal 
+                        Z2126 & dopamine dopaminergic transporter serotonin 
+                              Z1294 & dopamine dopaminergic 
+                              Z1295 & transporter serotonin 
+                        Z2127 & glial astrocytes microglia barrier bbb 
+                              Z1297 & glial astrocytes microglia 
+                              Z1296 & barrier bbb 
+            Z425 & neuroscience neural anterior amygdala lateral posterior reward 
+                  Z352 & neuroscience neural amygdala reward cues eeg latency 
+                        Z2132 & neuroscience neural cues eeg latency video 
+                              Z1310 & neuroscience neural 
+                              Z1309 & eeg cues latency video 
+                        Z2133 & amygdala reward timing motivation window periods tracking 
+                              Z1312 & timing window periods tracking 
+                              Z1311 & amygdala reward motivation 
+                  Z353 & anterior lateral posterior bilateral head inferior superior 
+                        Z2135 & head inferior superior neck 
+                              Z1315 & inferior superior 
+                              Z1316 & head neck 
+                        Z2134 & anterior lateral posterior bilateral 
+                              Z1313 & lateral bilateral 
+                              Z1314 & anterior posterior 
+                  Z354 & spatial space resolution temporal distance mapping noise 
+                        Z2136 & spatial space temporal distance locations located 
+                              Z1317 & space distance 
+                              Z1318 & spatial temporal 
+                              Z1319 & locations located 
+                        Z2137 & resolution mapping noise maps map depth deep 
+                              Z1320 & resolution noise 
+                              Z1322 & mapping maps map 
+                              Z1321 & depth deep coherence 
+                        Z2138 & dynamic dynamics transition transitions 
+                              Z1323 & dynamic dynamics 
+                              Z1324 & transition transitions 
+                        Z2139 & input output start starting back 
+                              Z1325 & input output 
+                              Z1326 & start starting back 
+      Z510 & neurosci neurons neuronal neuron neurol synaptic motor 
+            Z422 & synaptic synapses plasticity alzheimers glutamate nmda dementia 
+                  Z346 & synaptic synapses plasticity glutamate nmda gaba interneurons 
+                        Z2118 & interneurons olfactory currents conditioning resting subtypes extinction 
+                              Z1275 & interneurons olfactory conditioning extinction 
+                              Z1274 & currents resting patch 
+                              Z1276 & subtypes subtype 
+                              Z1277 & mirnas mirna 
+                        Z2117 & synaptic synapses plasticity glutamate nmda gaba transmission 
+                              Z1272 & transmission monkeys gray 
+                              Z1271 & synaptic plasticity synapses 
+                              Z1273 & glutamate nmda gaba 
+                  Z347 & alzheimers dementia parkinsons aging elderly decline synuclein 
+                        Z2120 & alzheimers dementia parkinsons synuclein 
+                              Z1280 & alzheimers dementia 
+                              Z1281 & parkinsons synuclein 
+                        Z2119 & aging elderly decline supplementation vitamin 
+                              Z1278 & aging elderly decline 
+                              Z1279 & supplementation vitamin 
+            Z421 & neurosci neuron neurol cerebral nervous neurological neurology 
+                  Z344 & neurosci neuron neurol cerebral nervous cns degeneration 
+                        Z2113 & neurosci neuron neurol cerebral 
+                              Z1262 & neurosci neuron 
+                              Z1263 & neurol cerebral 
+                        Z2114 & nervous cns degeneration atrophy sclerosis progressive 
+                              Z1264 & nervous cns 
+                              Z1265 & degeneration atrophy sclerosis progressive 
+                  Z345 & neurological neurology dysfunction impaired impairment epilepsy abnormalities 
+                        Z2115 & neurological neurology epilepsy seizures seizure 
+                              Z1266 & neurological neurology 
+                              Z1267 & epilepsy seizures seizure 
+                        Z2116 & dysfunction impaired impairment abnormalities syndrome abnormal 
+                              Z1268 & dysfunction syndrome 
+                              Z1269 & impaired impairment 
+                              Z1270 & abnormalities abnormal 
+            Z423 & neurons neuronal motor brains sensory axonal axons 
+                  Z349 & neurons neuronal motor brains sensory neurogenesis circuit 
+                        Z2123 & motor sensory spontaneous intrinsic ablation 
+                              Z1287 & motor sensory 
+                              Z1288 & spontaneous intrinsic ablation 
+                        Z2124 & neurons neuronal brains circuit neurogenesis firing bdnf 
+                              Z1289 & circuit firing 
+                              Z1290 & neurons neuronal 
+                              Z1291 & brains neurogenesis bdnf 
+                  Z348 & axonal nerve axons spinal axon cord fibers 
+                        Z2121 & nerve spinal cord fibers optic fiber sympathetic 
+                              Z1283 & nerve optic sympathetic disc 
+                              Z1282 & spinal cord 
+                              Z1284 & fibers fiber 
+                        Z2122 & axonal axons axon root drg comparative 
+                              Z1286 & axonal axons axon 
+                              Z1285 & root drg comparative 
+Z64 & metabolism metabolic liver metab glucose insulin lipid 
+      Z58 & metabolism metabolic liver metab glucose insulin lipid 
+            Z417 & liver kidney muscle hepatic renal organs organ 
+                  Z335 & kidney muscle renal hormone oral skeletal endocrine 
+                        Z289 & kidney renal dialysis ckd 
+                              Z1213 & kidney renal 
+                              Z1212 & dialysis ckd 
+                        Z290 & oral urinary urine dental 
+                              Z1215 & oral dental 
+                              Z1214 & urinary urine 
+                        Z291 & muscle skeletal muscles limb 
+                              Z1216 & muscle skeletal 
+                              Z1217 & muscles limb 
+                        Z292 & hormone endocrine testosterone androgen 
+                              Z1219 & hormone endocrine 
+                              Z1218 & testosterone androgen 
+                        Z296 & amyloid apoe tau plaque 
+                              Z1227 & apoe plaque 
+                              Z1228 & amyloid tau 
+                        Z293 & plt005 plt001 plt0001 plt00001 
+                              Z1220 & plt005 plt001 
+                              Z1221 & plt0001 plt00001 
+                        Z295 & eye ocular ophthalmol retinal retina eyes 
+                              Z1225 & ocular ophthalmol 
+                              Z1224 & eye eyes 
+                              Z1226 & retinal retina 
+                        Z294 & academy proceedings america european official 
+                              Z1222 & america european official 
+                              Z1223 & academy proceedings 
+                  Z336 & liver hepatic organs organ hepatocytes bile lymph 
+                        Z297 & organs organ lymph nodes node 
+                              Z1230 & organs organ 
+                              Z1229 & lymph nodes node 
+                        Z298 & liver hepatic hepatocytes bile 
+                              Z1231 & liver hepatic 
+                              Z1232 & hepatocytes bile 
+            Z418 & metabolism metabolic metab glucose insulin lipid endocrinol 
+                  Z337 & metabolism metabolic lipid metabolites lipids cholesterol metabolite 
+                        Z299 & metabolism metabolic metabolites metabolite 
+                              Z1234 & metabolism metabolic 
+                              Z1233 & metabolites metabolite 
+                        Z2100 & lipid lipids cholesterol hdl 
+                              Z1236 & lipid lipids 
+                              Z1235 & cholesterol hdl 
+                  Z338 & metab glucose insulin endocrinol diabetic hba1c metformin 
+                        Z2101 & metab endocrinol diabetic metformin neuropathy 
+                              Z1238 & metab endocrinol 
+                              Z1237 & diabetic metformin neuropathy 
+                        Z2102 & glucose insulin hba1c hemoglobin 
+                              Z1239 & glucose insulin 
+                              Z1240 & hba1c hemoglobin 
+      Z59 & diabetes hypertension obesity cardiovascular obese artery circulation 
+            Z420 & diabetes hypertension obesity obese bmi overweight intake 
+                  Z343 & diabetes hypertension intake complications consumption comorbidities food 
+                        Z2112 & diabetes hypertension complications comorbidities burden 
+                              Z1261 & diabetes hypertension 
+                              Z1260 & complications comorbidities burden 
+                        Z2111 & intake consumption food daily week 
+                              Z1258 & intake consumption food 
+                              Z1259 & daily week 
+                  Z342 & obesity obese bmi overweight height eating leptin 
+                        Z2110 & bmi overweight height eating foods 
+                              Z1256 & bmi overweight height 
+                              Z1257 & eating foods 
+                        Z2109 & obesity obese leptin gain hfd 
+                              Z1254 & obesity obese 
+                              Z1255 & leptin gain hfd 
+            Z419 & cardiovascular artery circulation coronary myocardial vascular infarction 
+                  Z340 & cardiovascular artery circulation coronary systolic pressure mgdl 
+                        Z2106 & cardiovascular artery circulation coronary 
+                              Z1248 & cardiovascular circulation 
+                              Z1249 & artery coronary 
+                        Z2105 & systolic pressure mgdl cvd 
+                              Z1246 & pressure systolic 
+                              Z1247 & mgdl cvd 
+                  Z341 & vascular atherosclerosis arterial endothelial stroke carotid vessels 
+                        Z2108 & atherosclerosis arterial stroke carotid hypoxia hif1 
+                              Z1253 & atherosclerosis arterial stroke carotid 
+                              Z1252 & hypoxia hif1 
+                        Z2107 & vascular endothelial vessels vessel 
+                              Z1250 & vascular endothelial 
+                              Z1251 & vessels vessel 
+                  Z339 & myocardial infarction cardiac ischemic ventricular aortic ischemia 
+                        Z2104 & myocardial infarction ischemic ischemia 
+                              Z1245 & ischemic ischemia 
+                              Z1244 & myocardial infarction 
+                        Z2103 & cardiac ventricular aortic atrial hearts valve wall 
+                              Z1241 & hearts wall dogs 
+                              Z1243 & aortic valve 
+                              Z1242 & cardiac ventricular atrial 
+Z67 & inflammatory cytokines inflammation cytokine proinflammatory macrophages immunol 
+      Z516 & inflammatory inflammation cytokines cytokine immunol proinflammatory macrophages 
+            Z435 & cytokines cytokine immunol proinflammatory immunity immune tnf 
+                  Z373 & cytokines cytokine proinflammatory tnf necrosis systemic antiinflammatory 
+                        Z2186 & cytokines cytokine systemic circulating autoimmune peripheral invest 
+                              Z1440 & systemic peripheral invest 
+                              Z1439 & cytokines cytokine 
+                              Z1442 & circulating plasma 
+                              Z1441 & autoimmune arthritis 
+                        Z2185 & proinflammatory tnf necrosis antiinflammatory 
+                              Z1438 & necrosis antiinflammatory 
+                              Z1437 & proinflammatory tnf 
+                  Z374 & immune immunol immunity innate immunology ifn lymphocytes 
+                        Z2187 & immune immunol lymphocytes tcell antigen antigens 
+                              Z1443 & immune immunol 
+                              Z1444 & lymphocytes tcell 
+                              Z1445 & antigen antigens 
+                        Z2188 & immunity innate ifn adaptive clearance spleen adaptation 
+                              Z1447 & immunity innate ifn 
+                              Z1448 & spleen clearance 
+                              Z1446 & adaptive adaptation 
+                        Z2190 & immunology effector allergy allergic asthma ige 
+                              Z1453 & immunology effector 
+                              Z1452 & allergy allergic asthma ige 
+                        Z2189 & dendritic subsets mhc immunotherapy tcr dcs subset 
+                              Z1449 & mhc immunotherapy tcr tolerance 
+                              Z1451 & dendritic dcs 
+                              Z1450 & subsets subset 
+            Z436 & inflammatory inflammation macrophages macrophage pathogenesis monocytes neutrophils 
+                  Z376 & macrophages macrophage monocytes lps platelet platelets transfusion 
+                        Z2195 & macrophages macrophage monocytes lps 
+                              Z1462 & monocytes lps 
+                              Z1463 & macrophages macrophage 
+                        Z2194 & platelet platelets transfusion sickle hscs scd 
+                              Z1461 & sickle hscs scd 
+                              Z1460 & platelet platelets transfusion 
+                  Z375 & inflammatory inflammation pathogenesis neutrophils pathology neutrophil pathological 
+                        Z2192 & inflammatory inflammation mast eosinophils 
+                              Z1456 & eosinophils mast 
+                              Z1457 & inflammatory inflammation 
+                        Z2191 & pathogenesis pathology pathological pathogenic 
+                              Z1455 & pathology pathological 
+                              Z1454 & pathogenesis pathogenic 
+                        Z2193 & neutrophils neutrophil complement hcc ecs hsp90 postpartum 
+                              Z1459 & neutrophils neutrophil 
+                              Z1458 & complement hcc ecs hsp90 postpartum pittsburgh glaucoma 
+      Z515 & microbiol bacterial infection bacteria host pathogens microbial 
+            Z433 & microbiol bacterial bacteria pathogens host microbial strains 
+                  Z370 & microbiol strains coli strain vaccine vaccination vaccines 
+                        Z2178 & microbiol strains coli strain 
+                              Z1420 & microbiol coli 
+                              Z1421 & strains strain 
+                        Z2179 & vaccine vaccination vaccines immunization influenza 
+                              Z1422 & vaccination influenza 
+                              Z1423 & vaccine vaccines immunization 
+                        Z2177 & gut intestinal gastrointestinal gastroenterology intestine bowel colitis 
+                              Z1416 & gut intestinal gastroenterology 
+                              Z1417 & gastric enteric esophageal motility 
+                              Z1418 & gastrointestinal intestine tract 
+                              Z1419 & bowel colitis 
+                  Z369 & bacterial bacteria host pathogens microbial virulence antibiotic 
+                        Z2174 & microbial mucosal aureus fungal plant 
+                              Z1410 & microbial mucosal aureus 
+                              Z1409 & fungal plant 
+                        Z2176 & host pathogens antibiotic antibiotics microbiota microbiome 
+                              Z1414 & host pathogens 
+                              Z1415 & antibiotic antibiotics 
+                              Z1413 & microbiota microbiome 
+                        Z2175 & bacterial bacteria virulence biofilm 
+                              Z1411 & virulence biofilm 
+                              Z1412 & bacterial bacteria 
+            Z434 & infection infect infections infectious infected virus viral 
+                  Z372 & infection infect infections infectious infected dis tuberculosis 
+                        Z2184 & infection infections infectious tuberculosis parasite malaria 
+                              Z1435 & infection infections infectious 
+                              Z1436 & tuberculosis parasite malaria 
+                        Z2183 & infect infected dis suppl 
+                              Z1433 & infect infected 
+                              Z1434 & dis suppl 
+                  Z371 & virus viral hiv viruses virol antiretroviral hivinfected 
+                        Z2180 & virus viral viruses virol replication load rice 
+                              Z1424 & virus viral 
+                              Z1425 & viruses virol 
+                              Z1426 & replication load rice hill 
+                        Z2181 & hiv aids antiretroviral hivinfected hiv1 art 
+                              Z1429 & hiv1 art 
+                              Z1428 & hiv aids 
+                              Z1427 & antiretroviral hivinfected 
+                        Z2182 & africa countries world south organization west 
+                              Z1431 & africa countries 
+                              Z1430 & south west 
+                              Z1432 & world organization 
+Z66 & staining antibody stained antibodies fluorescence fluorescent mutations 
+      Z513 & antibody staining antibodies stained fluorescence fluorescent expressing 
+            Z428 & antibody staining antibodies stained expressing monoclonal express 
+                  Z359 & antibody antibodies expressing monoclonal express cytometry igg 
+                        Z2150 & expressing express cytometry epithelial viability elisa epithelium 
+                              Z1352 & expressing express 
+                              Z1354 & cytometry viability 
+                              Z1355 & elisa ngml 
+                              Z1353 & epithelial epithelium 
+                        Z2149 & antibody antibodies monoclonal igg recombinant rabbit kda 
+                              Z1350 & monoclonal igg rabbit 
+                              Z1349 & antibody antibodies 
+                              Z1351 & recombinant kda 
+                  Z360 & staining stained sections quantification quantified sem marker 
+                        Z2151 & staining stained quantification quantified marker differentiated 
+                              Z1356 & marker differentiated 
+                              Z1357 & staining stained 
+                              Z1358 & quantification quantified 
+                        Z2152 & sections sem fixed anova 
+                              Z1359 & sections fixed 
+                              Z1360 & sem anova 
+            Z429 & fluorescence fluorescent plasmid transfected transfection gfp labeled 
+                  Z361 & fluorescence fluorescent labeled probes particles probe labeling 
+                        Z2154 & fluorescence fluorescent labeled labeling situ fish 
+                              Z1365 & fluorescence fluorescent 
+                              Z1364 & situ fish 
+                              Z1366 & labeled labeling 
+                        Z2153 & probes probe particles emission particle excitation 
+                              Z1361 & probes probe 
+                              Z1362 & particles particle 
+                              Z1363 & emission excitation 
+                  Z362 & plasmid transfected transfection gfp vector vectors sirna 
+                        Z2155 & plasmid gfp constructs construct 
+                              Z1368 & plasmid gfp 
+                              Z1367 & constructs construct 
+                        Z2157 & vector vectors efficiency efficient 
+                              Z1371 & vector vectors 
+                              Z1372 & efficiency efficient 
+                        Z2156 & transfected transfection sirna untreated 
+                              Z1369 & sirna untreated 
+                              Z1370 & transfected transfection 
+            Z430 & microscope microscopy confocal bar bars nuclei morphology 
+                  Z363 & bar bars bottom yellow arrows figures color 
+                        Z2159 & bottom yellow arrows color middle 
+                              Z1375 & yellow arrows color 
+                              Z1376 & bottom middle 
+                        Z2158 & bar bars figures supplemental 
+                              Z1373 & bar bars 
+                              Z1374 & figures supplemental 
+                  Z364 & microscope microscopy confocal nuclei morphology diameter optical 
+                        Z2161 & microscope microscopy confocal nuclei morphology optical laser 
+                              Z1380 & nuclei morphology 
+                              Z1381 & optical lens 
+                              Z1379 & microscopy microscope confocal laser 
+                        Z2160 & diameter glass filter tube thickness tip solutions 
+                              Z1377 & glass filter tube tip solutions separation 
+                              Z1378 & diameter thickness 
+      Z512 & mutations mutant mutation genet phenotype wildtype mutants 
+            Z426 & mutant wildtype mutants subunit wild subunits drosophila 
+                  Z356 & mutant wildtype mutants subunit wild subunits drosophila 
+                        Z2142 & subunit subunits drosophila modifications elegans modification acetylation 
+                              Z1333 & subunit subunits 
+                              Z1335 & modifications modification acetylation 
+                              Z1334 & drosophila elegans 
+                              Z1332 & partially partial 
+                        Z2143 & mutant wildtype mutants wild 
+                              Z1336 & mutants wild 
+                              Z1337 & mutant wildtype 
+                  Z355 & polymorphisms nucleotide snps snp genotype genotypes susceptibility 
+                        Z2140 & polymorphisms nucleotide snps snp susceptibility 
+                              Z1327 & polymorphisms nucleotide susceptibility 
+                              Z1328 & snps snp 
+                        Z2141 & genotype genotypes gwas ancestry traits trait 
+                              Z1329 & genotype genotypes 
+                              Z1330 & gwas ancestry 
+                              Z1331 & traits trait 
+            Z427 & mutations mutation genet phenotype reveals variants phenotypes 
+                  Z358 & mutations mutation phenotype phenotypes encoding phenotypic fusion 
+                        Z2147 & phenotype phenotypes encoding phenotypic fusion specificity origin 
+                              Z1344 & origin zinc zebrafish 
+                              Z1345 & encoding fusion specificity 
+                              Z1346 & phenotype phenotypes phenotypic 
+                        Z2148 & mutations mutation novo dominant proteomics exchange 
+                              Z1348 & novo dominant proteomics exchange 
+                              Z1347 & mutations mutation 
+                  Z357 & genet reveals variants genetics variant allele discovery 
+                        Z2144 & reveals discovery insights architecture feature 
+                              Z1338 & reveals discovery 
+                              Z1339 & insights architecture feature 
+                        Z2145 & genet genetics allele alleles hum 
+                              Z1340 & genet genetics hum 
+                              Z1341 & allele alleles 
+                        Z2146 & variants variant rare frequent 
+                              Z1343 & variants variant 
+                              Z1342 & rare frequent 
+      Z514 & tumors cancers carcinoma metastatic oncol breast metastasis 
+            Z431 & tumors cancers carcinoma metastatic breast metastasis malignant 
+                  Z365 & tumors cancers carcinoma metastatic metastasis malignant melanoma 
+                        Z2163 & tumors cancers carcinoma kras ras 
+                              Z1384 & tumors cancers carcinoma 
+                              Z1385 & kras ras 
+                        Z2162 & malignant melanoma glioblastoma glioma gbm 
+                              Z1382 & malignant melanoma 
+                              Z1383 & glioblastoma glioma gbm 
+                        Z2164 & biopsy specimens cervical hpv 
+                              Z1387 & biopsy specimens 
+                              Z1386 & cervical hpv 
+                        Z2165 & metastatic metastasis tumour invasion microenvironment 
+                              Z1389 & metastatic metastasis 
+                              Z1388 & tumour invasion microenvironment 
+                  Z366 & breast prostate colorectal adenocarcinoma antitumor ovarian colon 
+                        Z2169 & antitumor solid cytotoxicity egfr cycles cat 
+                              Z1397 & antitumor cytotoxicity 
+                              Z1396 & solid egfr cycles cat 
+                        Z2167 & breast prostate ovarian estrogen endometrial 
+                              Z1393 & breast prostate 
+                              Z1392 & ovarian estrogen endometrial 
+                        Z2168 & colorectal adenocarcinoma colon pancreatic 
+                              Z1394 & adenocarcinoma pancreatic 
+                              Z1395 & colorectal colon 
+                        Z2166 & mammary gland bladder thyroid 
+                              Z1390 & bladder thyroid 
+                              Z1391 & mammary gland 
+            Z432 & oncol oncology chemotherapy prognostic prognosis metastases radiation 
+                  Z368 & oncol oncology chemotherapy metastases radiation recurrence radiotherapy 
+                        Z2173 & oncol oncology chemotherapy metastases radiation recurrence radiotherapy 
+                              Z1407 & oncol oncology chemotherapy radiation 
+                              Z1406 & recurrence recurrent 
+                              Z1408 & metastases radiotherapy adjuvant resection invasive 
+                        Z2172 & therapies treat treatments engl 
+                              Z1405 & therapies treatments 
+                              Z1404 & treat engl 
+                  Z367 & prognostic prognosis aggressive biomarkers lesions angiogenesis biomarker 
+                        Z2170 & aggressive biomarkers lesions angiogenesis biomarker lesion vegf 
+                              Z1401 & aggressive grade aggression 
+                              Z1399 & biomarkers biomarker 
+                              Z1400 & angiogenesis vegf 
+                              Z1398 & lesions lesion 
+                        Z2171 & prognostic prognosis cohorts subgroup heterogeneity 
+                              Z1402 & prognostic prognosis 
+                              Z1403 & cohorts subgroup heterogeneity 
+Z69 & psychological psychology mental items psychiatry emotional psychiatric 
+      Z520 & psychological psychology mental items emotional behaviors item 
+            Z444 & items item asked skills educational validity reliability 
+                  Z392 & language english sessions session training words trained 
+                        Z2242 & language english words word 
+                              Z1576 & words word 
+                              Z1577 & language english 
+                        Z2243 & session sessions training trained 
+                              Z1579 & training trained 
+                              Z1578 & session sessions 
+                        Z2241 & examining correlations variance variability sizes averaged indices 
+                              Z1575 & examining correlations variance 
+                              Z1574 & variability sizes averaged indices deviation measuring composite 
+                  Z391 & items asked item validity reliability respondents scales 
+                        Z2239 & asked respondents scales dimensions 
+                              Z1570 & asked respondents 
+                              Z1571 & scales dimensions 
+                        Z2240 & items item validity reliability 
+                              Z1572 & items item 
+                              Z1573 & validity reliability 
+                  Z393 & attitudes beliefs personal violence sexual communication stigma 
+                        Z2245 & attitudes beliefs personal communication 
+                              Z1585 & attitudes beliefs 
+                              Z1584 & personal communication 
+                        Z2244 & sexual violence stigma partner partners victimization condom 
+                              Z1580 & sexual violence victimization maltreatment 
+                              Z1583 & stigma gay 
+                              Z1581 & partner partners 
+                              Z1582 & condom msm vaginal 
+                  Z394 & skills educational goals academic achievement literacy comprehension 
+                        Z2247 & skills educational literacy comprehension reading 
+                              Z1589 & skills educational 
+                              Z1588 & literacy comprehension reading 
+                        Z2246 & goals academic achievement goal 
+                              Z1587 & academic achievement 
+                              Z1586 & goals goal 
+            Z443 & psychological psychology mental emotional behaviors experiences depressive 
+                  Z389 & psychological psychology behaviors experiences personality ratings rating 
+                        Z2230 & experienced engagement concerns month selfefficacy 
+                              Z1547 & engagement selfefficacy 
+                              Z1546 & experienced concerns month 
+                        Z2229 & washington metaanalysis retrieved fewer asian adjustment student 
+                              Z1545 & washington retrieved fewer asian student 
+                              Z1544 & metaanalysis adjustment 
+                        Z2231 & behaviors experiences fear contextual 
+                              Z1548 & behaviors experiences 
+                              Z1549 & fear contextual 
+                        Z2232 & difficulties difficulty face facial faces 
+                              Z1551 & difficulty difficulties 
+                              Z1550 & face facial faces 
+                        Z2235 & ratings rating assessments standardized manual 
+                              Z1559 & assessments standardized manual 
+                              Z1558 & ratings rating 
+                        Z2228 & psychological psychology personality anger 
+                              Z1543 & personality anger 
+                              Z1542 & psychological psychology 
+                        Z2234 & consequences influences correlates colleagues causal link cohen 
+                              Z1556 & consequences colleagues persistent 
+                              Z1557 & influences correlates causal link 
+                              Z1555 & cohen threat actual davis availability retention external 
+                        Z2233 & relations coded expectations satisfaction relation coding 
+                              Z1553 & expectations satisfaction 
+                              Z1552 & relations relation 
+                              Z1554 & coded coding 
+                  Z390 & mental emotional depressive psychosocial problems disorder affective 
+                        Z2237 & psychosocial problems affective functioning psychopathology problem subjective 
+                              Z1562 & subjective sleep 
+                              Z1563 & psychosocial functioning 
+                              Z1564 & controlling turn couples 
+                              Z1565 & affective psychopathology 
+                              Z1566 & problems problem 
+                        Z2236 & mental depressive disorder mood 
+                              Z1561 & mental depressive 
+                              Z1560 & disorder mood 
+                        Z2238 & emotional coping emotion distress cortisol reactivity 
+                              Z1567 & coping distress 
+                              Z1568 & emotional emotion 
+                              Z1569 & cortisol reactivity 
+      Z519 & psychiatry psychiatric depression anxiety adolescent adolescents adolescence 
+            Z441 & psychiatry psychiatric depression anxiety psychol illness behav 
+                  Z386 & psychiatry psychiatric psychol illness behav schizophrenia comorbid 
+                        Z2221 & schizophrenia psychosis bipolar diagnoses diagnostic 
+                              Z1523 & diagnoses diagnostic 
+                              Z1524 & schizophrenia bipolar psychosis 
+                        Z2220 & psychiatry psychiatric comorbid comorbidity impulsivity adhd 
+                              Z1520 & impulsivity adhd 
+                              Z1521 & psychiatry psychiatric 
+                              Z1522 & comorbid comorbidity 
+                        Z2222 & psychol illness behav nursing 
+                              Z1525 & illness nursing 
+                              Z1526 & psychol behav 
+                  Z385 & depression anxiety posttraumatic suicidal moderate ptsd ideation 
+                        Z2217 & moderate generalized mild episodes term mdd 
+                              Z1514 & generalized episodes term mdd 
+                              Z1515 & moderate mild 
+                        Z2218 & depression anxiety suicidal ideation 
+                              Z1516 & depression anxiety 
+                              Z1517 & suicidal ideation 
+                        Z2219 & posttraumatic ptsd traumatic trauma 
+                              Z1518 & posttraumatic ptsd 
+                              Z1519 & trauma traumatic 
+            Z442 & adolescent adolescents adolescence youth parents longitudinal girls 
+                  Z387 & parents parental parent families parenting females fathers 
+                        Z2224 & females males students positively negatively ttest chinese 
+                              Z1529 & females males 
+                              Z1531 & positively negatively 
+                              Z1530 & students ttest 
+                              Z1532 & chinese china 
+                        Z2223 & parents parental parent families parenting fathers 
+                              Z1527 & parents parental 
+                              Z1528 & parent families parenting fathers 
+                  Z388 & adolescent adolescents adolescence youth longitudinal girls adulthood 
+                        Z2225 & longitudinal girls boys crosssectional 
+                              Z1534 & longitudinal crosssectional 
+                              Z1533 & girls boys 
+                        Z2226 & adolescent adolescents adolescence youth adulthood ages schools 
+                              Z1537 & ages peer 
+                              Z1536 & schools teachers 
+                              Z1535 & adolescent adolescents youth 
+                              Z1538 & adolescence adulthood 
+                        Z2227 & trajectories externalizing internalizing trajectory late latent stages 
+                              Z1539 & trajectories trajectory latent 
+                              Z1540 & externalizing internalizing 
+                              Z1541 & late stages 
+Z68 & acids biochem species biophys enzymes mammalian enzyme 
+      Z518 & acids biochem species biophys enzymes mammalian enzyme 
+            Z439 & acids biochem biophys mammalian peptide conserved chain 
+                  Z381 & biochem biophys peptide chain peptides biochemical fragment 
+                        Z2208 & chain products fragment fragments yeast product chains 
+                              Z1493 & yeast hela extract 
+                              Z1492 & products product 
+                              Z1494 & fragment fragments 
+                              Z1495 & chain chains 
+                        Z2209 & biochem biophys biochemical acta 
+                              Z1496 & biochemical acta 
+                              Z1497 & biochem biophys 
+                        Z2210 & peptide peptides stability instability 
+                              Z1498 & peptide peptides 
+                              Z1499 & stability instability 
+                  Z382 & acids mammalian conserved nucleic fatty amounts energy 
+                        Z2211 & mammalian conserved amounts composition excess 
+                              Z1500 & amounts composition excess 
+                              Z1501 & mammalian conserved 
+                        Z2212 & acids nucleic fatty energy restriction appendix insertion 
+                              Z1503 & fatty energy 
+                              Z1504 & appendix objective 
+                              Z1502 & acids nucleic 
+                              Z1505 & restriction insertion restricted 
+            Z440 & species enzymes enzyme substrate oxidative catalytic oxidation 
+                  Z384 & species oxidative oxidation abundance redox antioxidant ros 
+                        Z2215 & species abundance iron heme 
+                              Z1510 & species abundance 
+                              Z1511 & iron heme 
+                        Z2216 & oxidative oxidation redox ros antioxidant 
+                              Z1512 & oxidation redox 
+                              Z1513 & oxidative ros antioxidant 
+                  Z383 & enzyme enzymes substrate catalytic substrates biosynthesis precursor 
+                        Z2213 & enzyme enzymes biosynthesis precursor 
+                              Z1507 & biosynthesis precursor 
+                              Z1506 & enzyme enzymes 
+                        Z2214 & substrate catalytic substrates reactions conversion 
+                              Z1508 & substrate substrates 
+                              Z1509 & catalytic reactions conversion 
+      Z517 & chemical chemistry compounds lett solvent synthesized electron 
+            Z438 & chemical chemistry compounds lett solvent synthesized electron 
+                  Z379 & compounds lett synthesized synthetic compound derivatives carbon 
+                        Z2202 & synthesized synthetic coupling coupled 
+                              Z1479 & synthesized synthetic 
+                              Z1478 & coupling coupled 
+                        Z2201 & kinetics kinetic selectivity acc neutral soft 
+                              Z1476 & selectivity neutral acc soft 
+                              Z1477 & kinetics kinetic 
+                        Z2203 & lett carbon gas appl toxicol 
+                              Z1481 & lett appl toxicol 
+                              Z1480 & carbon gas 
+                        Z2204 & compounds compound derivatives ring 
+                              Z1482 & derivatives ring 
+                              Z1483 & compounds compound 
+                  Z380 & chemical chemistry solvent electron ion hydrogen ions 
+                        Z2206 & hydrophobic charge metal xray absorption interface thermal 
+                              Z1488 & metal absorption thermal air 
+                              Z1487 & hydrophobic charge xray interface 
+                        Z2207 & electron ion ions spectroscopy mode dimer 
+                              Z1490 & electron spectroscopy 
+                              Z1489 & mode dimer 
+                              Z1491 & ion ions 
+                        Z2205 & chemical chemistry solvent hydrogen aqueous organic bond 
+                              Z1486 & hydrogen bond 
+                              Z1484 & solvent aqueous organic 
+                              Z1485 & chemical chemistry 
+            Z437 & chromatography spectra nmr liquid spectrometry peak peaks 
+                  Z378 & chromatography liquid spectrometry peak peaks column fast 
+                        Z2200 & chromatography liquid spectrometry column anal gradient calibration 
+                              Z1473 & chromatography liquid spectrometry 
+                              Z1475 & anal calibration standards 
+                              Z1474 & column gradient 
+                        Z2199 & peak peaks fast slow 
+                              Z1471 & peak peaks 
+                              Z1472 & fast slow 
+                  Z377 & spectra nmr ppm mhz spectrum scheme proton 
+                        Z2196 & scheme yield mmol shifts shift 
+                              Z1464 & scheme yield mmol 
+                              Z1465 & shifts shift 
+                        Z2197 & spectra nmr ppm mhz proton cdcl3 
+                              Z1467 & spectra nmr 
+                              Z1468 & ppm proton 
+                              Z1466 & mhz cdcl3 
+                        Z2198 & spectrum spectral autism asd 
+                              Z1470 & spectrum spectral 
+                              Z1469 & autism asd 
